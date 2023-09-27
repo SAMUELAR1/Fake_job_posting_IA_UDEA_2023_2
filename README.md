@@ -5,5 +5,5 @@
 - Samuel Aristizabal, CC1152472131,Ing.electrica
 - Juan David Lopez, CC1000416218,Ing.electrica
 
-  ## Datos
+## Datos
   El data set de Kaggle utilizado fue  https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction.
