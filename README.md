@@ -6,7 +6,10 @@
 - Juan David Lopez, CC1000416218,Ing.electrica
 
 ## Datos
-  El data set de Kaggle utilizado fue  https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction.
+  El data set de Kaggle utilizado fue  https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction  
+  url = '[https://media.githubusercontent.com/media/juli275/IA_UdeA_2023_2/main/fake_job_postings.csv](https://raw.githubusercontent.com/SAMUELAR1/Fake_job_posting_IA_UDEA_2023_2/main/fake_job_postings.csv)'
+Dataset = pd.read_csv(url)
+Dataset01 = Dataset.copy(deep=True)
 
 ## Videos del proyecto:
 - Avance 2: https://youtu.be/hRJsfE5IjJo?si=o1nQTa0weysP5aZC
