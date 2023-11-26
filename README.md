@@ -10,7 +10,7 @@
   Para obtenerlos se debe ejecutar el siguiente codigo, que obtiene los datos de un csv en el repositorio de GitHub personal del estudiante:
     url = 'https://raw.githubusercontent.com/SAMUELAR1/Fake_job_posting_IA_UDEA_2023_2/main/fake_job_postings.csv'
     Dataset = pd.read_csv(url)
-    Dataset01 = Dataset.copy(deep=True)                            
+    Dataset01 = Dataset.copy(deep=True)
  
 
 ## Videos del proyecto:
